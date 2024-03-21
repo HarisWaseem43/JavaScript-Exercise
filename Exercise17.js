@@ -9,4 +9,4 @@ function absoluteDifference(number) {
 }
 console.log(absoluteDifference(4));
 console.log(absoluteDifference(7));
-console.log(absoluteDifference(11));
+console.log(absoluteDifference(50));
